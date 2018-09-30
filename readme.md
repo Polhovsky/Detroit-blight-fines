@@ -1,4 +1,4 @@
-# Detriot blight fines
+# Detroit blight fines
 
 <div align="center"><img src="blight_fines.jpg"></img></div>
 
